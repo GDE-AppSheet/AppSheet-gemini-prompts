@@ -6,6 +6,19 @@ El objetivo de este documento es servir como un recurso de referencia para cualq
 
 ---
 
+## 🗺️ Tabla de Contenidos
+* [📜 Guía Paso a Paso para Generar Prompts Efectivos](#-guía-paso-a-paso-para-generar-prompts-efectivos)
+  * [💡 Paso 1: Definir el Núcleo](#-paso-1-definir-el-núcleo-el-qué)
+  * [👥 Paso 2: Identificar a los Usuarios](#-paso-2-identificar-a-los-usuarios-el-quién)
+  * [🗃️ Paso 3: Listar las Entidades Principales](#-paso-3-listar-las-entidades-principales-los-sustantivos)
+  * [⚙️ Paso 4: Detallar las Funcionalidades](#-paso-4-detallar-las-funcionalidades-y-acciones-los-verbos)
+  * [🔗 Paso 5: Considerar Integraciones](#-paso-5-considerar-integraciones-y-funciones-avanzadas-el-plus)
+* [📋 Catálogo de 21 Prompts de Ejemplo](#-catálogo-de-21-prompts-de-ejemplo-para-appsheet)
+  * [🟢 Nivel Básico](#-nivel-básico-aplicaciones-para-empezar)
+  * [🟡 Nivel Intermedio](#-nivel-intermedio-aplicaciones-conectadas-y-con-lógica)
+  * [🔴 Nivel Avanzado](#-nivel-avanzado-soluciones-empresariales-integrales)
+* [🤝 Cómo Contribuir](#-cómo-contribuir)
+---
 ## 📜 Guía Paso a Paso para Generar Prompts Efectivos
 
 Piensa en el prompt no como una simple idea, sino como el **plano de construcción** que le entregas a un asistente experto (la IA de AppSheet). Sigue estos pasos para construir un plano claro y detallado.

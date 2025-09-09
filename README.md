@@ -1,3 +1,4 @@
+![Banner Guía de Prompts AppSheet]()
 # 🚀 Guía Definitiva para la Creación de Prompts en AppSheet
 
 Este repositorio es una guía completa y un catálogo de ejemplos para crear aplicaciones en AppSheet utilizando su función de generación por IA a través de "prompts" o instrucciones de texto. Un prompt bien estructurado es la diferencia entre obtener una aplicación básica que requiere mucho trabajo y una base sólida y funcional que acelera el desarrollo exponencialmente.

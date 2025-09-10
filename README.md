@@ -1,4 +1,5 @@
-# 🚀 Guía Definitiva para la Creación de Prompts en AppSheet
+#<img width="1291" height="439" alt="Logo-ESC-2020-hor2" src="https://github.com/user-attachments/assets/85c51d3e-d953-43bb-8cde-d7c033aa2b0b" />
+ 🚀 Guía Definitiva para la Creación de Prompts en AppSheet
 
 Este repositorio es una guía completa y un catálogo de ejemplos para crear aplicaciones en AppSheet utilizando su función de generación por IA a través de "prompts" o instrucciones de texto. Un prompt bien estructurado es la diferencia entre obtener una aplicación básica que requiere mucho trabajo y una base sólida y funcional que acelera el desarrollo exponencialmente.
 
